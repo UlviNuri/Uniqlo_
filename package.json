@@ -1,0 +1,23 @@
+{
+  "name": "uniqlo_",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UlviNuri/Uniqlo_.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UlviNuri/Uniqlo_/issues"
+  },
+  "homepage": "https://github.com/UlviNuri/Uniqlo_#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
